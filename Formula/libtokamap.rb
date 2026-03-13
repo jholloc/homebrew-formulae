@@ -1,8 +1,8 @@
 class Libtokamap < Formula
   desc "Library for flexible data mapping and transformation with multiple data sources"
   homepage "https://github.com/ukaea/libtokamap"
-  url "https://github.com/ukaea/libtokamap/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "909ef7ebf4f9a308e2ccddfe0926a02dd7a93df63aed0ed289e7b5696266b475"
+  url "https://github.com/ukaea/libtokamap/archive/refs/tags/0.2.0.tar.gz"
+  sha256 "cbcf134f4afc9f09af17f975504109c905bdfe9ac9dc184a78c4f450be39a784"
   license "MIT"
   head "https://github.com/ukaea/libtokamap.git", branch: "main"
 
